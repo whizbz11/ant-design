@@ -54,6 +54,8 @@ declare module 'rc-pagination';
 
 declare module 'rc-notification';
 
+declare module 'rc-drawer-menu';
+
 declare module 'rc-dialog';
 
 declare module 'rc-rate';

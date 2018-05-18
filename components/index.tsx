@@ -45,6 +45,8 @@ export { default as Checkbox } from './checkbox';
 
 export { default as Col } from './col';
 
+export { default as Drawer } from './drawer';
+
 export { default as DatePicker } from './date-picker';
 
 export { default as Divider } from './divider';
